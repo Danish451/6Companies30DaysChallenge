@@ -45,3 +45,13 @@ If difference of 2nd index and 0th index < 100 then it will include in the final
 
 #### T.C: O(n) + O(nlogn) = O(nlog n)
 #### S.C O(n)
+
+# Day 3
+## Q4. Combination Sum III
+
+### Approach
+
+
+## Q5. Letter Combinations of a Phone Number
+
+### Approach
