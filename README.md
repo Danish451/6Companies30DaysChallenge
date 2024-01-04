@@ -55,3 +55,9 @@ If difference of 2nd index and 0th index < 100 then it will include in the final
 ## Q5. Letter Combinations of a Phone Number
 
 ### Approach
+
+# Day 4
+## Q5. Minimize the Maximum of Two Arrays
+
+
+## Q6. Kth Smallest Element Query
